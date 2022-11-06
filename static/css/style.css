@@ -1,0 +1,69 @@
+:root{
+    --bs-gutter-x:1.5rem;
+}
+.container.we
+{
+    margin: 5%;
+    /* display: inline; */
+  
+    /* margin-top: 5%; */
+}
+
+form
+{
+    /* align-items: center; */
+    /* justify-content: center;
+    align-content: center; */
+    /* display: flexbox; */
+    /* margin-left: 40%; */
+}
+.container.btn
+{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+h3{
+    text-align: left;
+    position: relative;
+    /* border: 2px red solid; */
+    padding-bottom:20px ;
+}
+input 
+{
+    /* display: flex; */
+
+}
+.row
+{
+    margin-left: 20px;
+}
+
+.form-check
+{
+    /* display: flex; */
+    /* margin-left: 20px; */
+    text-align: start;
+    /* border: 2px red solid; */
+}
+.cmt-box
+{
+    padding: 10px;
+    margin-top: 25px;
+    /* margin-right: 20px; */
+    margin-left: -40px;
+}
+
+.cmt-box
+{
+    width: 50%;
+}
+
+/* .form-check
+ */
+
+ .col-md
+ {
+    /* display: inline; */
+ }
